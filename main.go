@@ -12,7 +12,7 @@ func main() {
 	rand.New(rand.NewSource(time.Now().UnixNano()))
 
 	numberOfNodes := 10
-	numberOfCandidates := 3
+	numberOfCandidates := 4
 	nodeList := nodes.InitializeNodes(numberOfNodes, numberOfCandidates)
 
 
