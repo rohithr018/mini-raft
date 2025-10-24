@@ -54,6 +54,20 @@ Mini RaFT-Consensus (Reliable and Fault-Tolerant)
 
 - Terminal Images
 
-  - [Intial Node Status](./ref-images/Inital-node-status.png)
-  - [Normal Election Scenario](./ref-images/normal-election-scenario.png)
-  - [Tie Election Scenario](./ref-images/tie-election-scenario.png)
+  - Initial Node Status
+    <div style="border: 2px solid #3f3f3fff; padding: 10px; width: 420px; margin-bottom: 20px;">
+      <img src="./ref-images/Inital-node-status.png" alt="Initial Node Status" width="400">
+    </div>
+
+  - Normal Election Scenario
+    <div style="border: 2px solid  #3f3f3fff; padding: 10px; width: 420px; margin-bottom: 20px;">
+      <img src="./ref-images/normal-election-scenario.png" alt="Normal Election Scenario" width="400">
+    </div>
+
+  - Tie Election Scenario
+    <div style="border: 2px solid  #3f3f3fff; padding: 10px; width: 420px; margin-bottom: 20px;">
+      <img src="./ref-images/tie-election-scenario.png" alt="Tie Election Scenario" width="400">
+    </div>
+
+- Output File
+  - Full simulation output: [output.txt](./output.txt)
